@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">GuardianNewsApp</string>
+    <string name="app_name">The Guardian</string>
+    <string name="article_thumbnail">Article Thumbnail</string>
+    <string name="article_detail_image">Article Detail Image</string>
+    <string name="article_detail_favourite_image">Article Detail Favourite Image</string>
+    <string name="article_detail_back_image">Article Detail Back Image</string>
 </resources>
